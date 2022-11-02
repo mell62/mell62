@@ -5,7 +5,7 @@
 🎮 I recently discovered an interest in **Front End Web Development** and I enjoy learning and building web development projects whenever I have free time from college activities. I really enjoy coding as well.
 
 
-🗃️ Outside learning, I also enjoy doing workouts everyday and listening to music. I also know a bit of guitar and I enjoy challenging my friends to a game of Chess.
+🗃️ Outside learning, I also enjoy doing workout everyday and listening to music. I also know a bit of guitar and I enjoy challenging my friends to a game of Chess.
 
 # Languages and Tools I Know or Use ⚒️
 
@@ -16,11 +16,19 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Terminal](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
+#### Know a Little Bit of... 🤔
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+#### OS I Use 💻
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
 <!--
