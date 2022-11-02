@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there! 👋
+
+👨‍ I'm Mridhul, I'm currently a fourth year student pursuing a bachelor's degree in Computer Science & Engineering. 
+
+🎮 I recently discovered an interest in **Front End Web Development** and I enjoy learning and building web development projects whenever I have free time from college activities. I really enjoy coding as well.
+
+
+🗃️ Outside learning, I also enjoy doing workouts everyday and listening to music. I also know a bit of guitar and I enjoy challenging my friends to a game of Chess.
+
 
 <!--
 **mell62/mell62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
