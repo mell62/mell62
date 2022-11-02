@@ -7,6 +7,10 @@
 
 🗃️ Outside learning, I also enjoy doing workouts everyday and listening to music. I also know a bit of guitar and I enjoy challenging my friends to a game of Chess.
 
+#### Languages and Tools I Use ⚒️
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mell62)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **mell62/mell62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
