@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-👨‍ I'm Mridhul, I'm currently a fourth year student pursuing a bachelor's degree in Computer Science & Engineering. 
+👨‍🎓 I'm Mridhul, I'm currently a fourth year student pursuing a bachelor's degree in Computer Science & Engineering. 
 
 🎮 I recently discovered an interest in **Front End Web Development** and I enjoy learning and building web development projects whenever I have free time from college activities. I really enjoy coding as well.
 
