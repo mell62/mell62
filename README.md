@@ -1,11 +1,11 @@
 # Hey there! 👋
 
-👨‍🎓 I'm Mridhul, I'm currently a fourth year student pursuing bachelor's degree in Computer Science & Engineering. 
+<font size = "3">👨‍🎓 I'm Mridhul, I'm currently a fourth year student pursuing bachelor's degree in Computer Science & Engineering. </font>
 
-🎮 I really enjoy coding. I recently discovered an interest in **Front End Web Development** and I enjoy learning and building web development projects whenever I have free time from college activities. 
+🕮 I really enjoy coding. I recently discovered an interest in **Front End Web Development** and I enjoy learning and building web development projects whenever I have free time from college activities. 
 
 
-🗃️ Outside learning, I also enjoy doing workout everyday and listening to music. I also know a bit of guitar and I enjoy challenging my friends to a game of Chess.
+🎮 Outside learning, I also enjoy doing workout everyday and listening to music. I also know a bit of guitar and I enjoy challenging my friends to a game of Chess.
 
 # Languages and Tools I Know or Use ⚒️
 
