@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-<font size= "5">👨‍🎓 I'm Mridhul, I'm currently a fourth year student pursuing bachelor's degree in Computer Science & Engineering.</font>
+<font size= "10">👨‍🎓 I'm Mridhul, I'm currently a fourth year student pursuing bachelor's degree in Computer Science & Engineering.</font>
 
 🕮 I really enjoy coding. I recently discovered an interest in **Front End Web Development** and I enjoy learning and building web development projects whenever I have free time from college activities. 
 
