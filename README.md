@@ -1,4 +1,4 @@
-# Hey there! 👋
+# Hey!
 
 👨‍🎓 I'm Mridhul, I'm currently a fourth year student pursuing bachelor's degree in Computer Science & Engineering.
 
