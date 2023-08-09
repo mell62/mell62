@@ -1,6 +1,6 @@
 # Hey!
 
-👨‍🎓 I'm Mridhul, I'm a Computer Science engineer.
+👨‍🎓 I'm Mridhul, I'm a Computer Science & Engineering graduate.
 
 🕮 I really enjoy coding. I recently discovered an interest in **Front End Web Development** and I enjoy learning and building web development projects whenever I have free time from college activities. 
 
