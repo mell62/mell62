@@ -9,7 +9,7 @@
 
 # Languages and Tools I Know or Use ⚒️
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mell62)](https://github.com/anuraghazra/github-readme-stats) 
+[![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mell62&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 #### 👆 In GitHub...
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
