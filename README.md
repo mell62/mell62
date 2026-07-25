@@ -9,7 +9,7 @@
 
 # Languages and Tools I Know or Use ⚒️
 
-[![mell62's GitHub stats](https://github-stats-extended.vercel.app/api/top-langs/?username=mell62)](https://github.com/stats-organization/github-stats-extended)
+[![mell62's GitHub stats](https://github-stats-extended.vercel.app/api/top-langs/?username=mell62&theme=dracula)](https://github.com/stats-organization/github-stats-extended)
 #### 👆 In GitHub...
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
